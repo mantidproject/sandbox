@@ -1,4 +1,5 @@
-sandbox
+scripts
 =======
 
-Used for testing out the script uploading
+User Scripts for Mantid.  This area is intended as a place for development of non-core mantid code.
+local change
