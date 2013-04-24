@@ -9,3 +9,5 @@ Upload again. Still 500.
 
 Another. Again. And again.
 It was lacking the last }
+
+I've added the last }, but it is still repeating the output twice.
