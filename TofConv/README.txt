@@ -2,4 +2,6 @@ This has been adopted into the main Mantid repository as a Mantid interface. Tof
 
 Attempt to test uploader.
 
-Another input. Still another
+I found a strange 500 internal error. Investigating.
+
+
