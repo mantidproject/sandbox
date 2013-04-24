@@ -4,6 +4,6 @@ Attempt to test uploader.
 
 I found a strange 500 internal error. Investigating.
 
-Upload again.
+Upload again. Still 500.
 
 
