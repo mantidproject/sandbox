@@ -1,3 +1,6 @@
+"""
+sample Direct inelastic reduction for MERLIN performed in absolute units
+"""
 from qtiGenie import *
 #from PySlice2 import *
 
