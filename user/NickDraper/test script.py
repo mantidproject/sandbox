@@ -1,2 +1,2 @@
 print "hi"
-print "testing update"
+print "testing"
