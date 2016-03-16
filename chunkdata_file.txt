@@ -6,3 +6,4 @@ more
 a
 b
 b
+\nb
