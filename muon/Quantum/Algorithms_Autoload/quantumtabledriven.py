@@ -10,7 +10,6 @@ from mantid.simpleapi import *
 from collections import Counter
 import re
 import numbers
-#import decimal
 import sys
 import traceback
 numpy.set_printoptions(linewidth=100)
