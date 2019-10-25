@@ -1,3 +1,10 @@
+'''
+This is a script that  produces a 2x2 figure containing sinusoidal waveforms, 
+two of which have error bars
+
+'''
+
+
 # The following line helps with future compatibility with Python 3
 # print must now be used as a function, e.g print('Hello','World')
 from __future__ import (absolute_import, division, print_function, unicode_literals)
