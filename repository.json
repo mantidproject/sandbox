@@ -3,490 +3,496 @@
     "author": "Martyn Gigg",
     "description": "The following line helps with future compatibility with Python 3\n\nprint must now be used as a function, e.g print('Hello','World')\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
+  },
+  "MyGreatScript.py": {
+    "author": "Martyn Gigg",
+    "description": "",
+    "directory": false,
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "New folder": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "New folder/new file 2.py": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "New folder/new file.txt": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "README.md": {
     "author": "Martyn Gigg",
     "description": "Script Repository\n=================\n\nThis is a public repository of user scripts for Mantid.\n\nDirectory Structure\n===================\n\nIn order to try to keep the content in the repository navigable over time please follow the suggested directory structure:\n\n* technique/instrument- scripts specific to an instrument\n  e.g.sans/loq\n* technique/facility - scripts specific to a facility, but common to several instruments at that facility\n  e.g.reflectometry/ornl\n* general/usage - scripts applicable to all\n  e.g.general/events\n* user/name - for storing personal but still shared scripts \n  e.g.user/ndraper\n \n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "TEST FOR DELETION.txt": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "chunkdata_file.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/ISIS": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/ISIS/CrystalAlignment": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/ISIS/CrystalAlignment/Check_alignement.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/LET": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/LET/LETReductionSample2015.py": {
     "author": "Martyn Gigg",
     "description": "Sample LET reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/LET/recent_reduction_template.py": {
     "author": "Martyn Gigg",
     "description": "Sample LET reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI/MARI_2013.py": {
     "author": "Martyn Gigg",
     "description": "det_cal_file must be specified if the reduction sends out put to a workpsace\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI/MARI_Sample.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI/Mar2015_Short.py": {
     "author": "Martyn Gigg",
     "description": "os.environ[\"PATH\"] =\\\n\nr\"c:/Mantid/Code/builds/br_master/bin/Release;\"+os.environ[\"PATH\"]\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI/iliad_python.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MARI/recent_reduction_template.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MERLIN": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MERLIN/MERReductionSample2015.py": {
     "author": "Martyn Gigg",
     "description": "Sample MER reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MERLIN/iliad_merlin_eventmode.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MERLIN/mantid_iliad_abs_sample.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/MERLIN/recent_reduction_template.py": {
     "author": "Martyn Gigg",
     "description": "Sample MER reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/Maps": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/Maps/MAPSReductionSample2015.py": {
     "author": "Martyn Gigg",
     "description": "Sample MAPS reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "direct_inelastic/Maps/recent_reduction_template.py": {
     "author": "Martyn Gigg",
     "description": "Sample MAPS reduction script ",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "experiment": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "experiment/description.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "folder with space": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "folder with space/my file with space.txt": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "gesner-test-script.py": {
     "author": "Martyn Gigg",
     "description": "changing this file\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/MaxEnt": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/MaxEnt/MaxEnt.py": {
     "author": "Martyn Gigg",
     "description": "A thin Mantid algorithm wrapper around an F2Py-compiled version of the Fortran\n\"MaxEnt\" program, which is currently being used from within OpenGENIE.\n\nThe existing functionality of the OpenGENIE version was to specify a run number\nand several options, and have the program do its calculations and plot the result.\nThere were also three files given to the program containing groupings as well as\nphase and deadtime data.  These were updated after the program had run its course.\n\nWe try to do the same here, except that we can work out a few of the options\nourselves without having to ask the user for them.  We also supply the plotted\ndata as an OutputWorkspace for users to play with.\n\nAnother difference is that in most cases we are removing the responsiblity of\nthe Fortran to write to and read from files; doing this via Python is easier\nand a lot more robust (doesn't crash if it can't get access rights).\n\nWe're supplying this via the Script Repository to keep F2Py out of the main one.\nThe main disadvantage to this is that we will have to run the unit tests manually\nafter every change to make sure things haven't regressed.  Another potential\ndownside is that this script requires users to add the containing directory to\ntheir \"Python extensions\" in Mantid preferences.  This will mean that the .pyd\nwill be used (locked) by the Mantid process and so updating it via the script\nrepository will not be possible without first removing the directory again from\nthe preferences.\n\nExample usage (SUBJECT TO CHANGE WITH TESTING AND FEEDBACK FROM USERS):\n\n# Execute with default input files, for the run \"48033\" on \"MUSR\".\nresult = MaxEnt(RunNumber=\"48033\", Instrument=\"MUSR\")",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/Quantum": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/Quantum/Algorithms_Autoload": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/Quantum/Algorithms_Autoload/quantumtabledriven.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/Quantum/script_update.py": {
     "author": "Martyn Gigg",
     "description": "install phase\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/Quantum/update.py": {
     "author": "Martyn Gigg",
     "description": "install phase\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/muesr": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/muesr/script_update.py": {
     "author": "Martyn Gigg",
     "description": "install phase\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/test_file": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "muon/test_file.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "new-file-test.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "new.md": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "new_file.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "newfolder": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "newfolder/childfolder": {
     "author": "Martyn Gigg",
     "description": "For test purpose. Uploading new folders.\n\nTesting a change in subfolder\n",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "newfolder/childfolder/README.txt": {
     "author": "Martyn Gigg",
     "description": "For test purpose. Uploading new folders.\n\nTesting a change in subfolder\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "newfolder/childfolder/runIndividualFromGUI.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "reflectometry": {
     "author": "Martyn Gigg",
     "description": "scriptrepository\n================\n\nThis is a public repository of users scripts for Mantid\n\nDirectory structure\n===================\n\nIn order to try to keep the content in the repository navigable over time please follow the suggested directory structure\n\n* technique/instrument\t-\tScripts specific to an instrument\n  e.g.sans/loq\n* technique/facility\t-\tscripts specific to a facility, but common to several instruments at that facility\n  e.g.reflectometry/ornl\n* general/usage -\tscripts applicable to all\n  e.g.general/events\n* user/name -\tfor storing personal, but still shared scripts\n  e.g.user/ndraper\n",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "reflectometry/README.md": {
     "author": "Martyn Gigg",
     "description": "scriptrepository\n================\n\nThis is a public repository of users scripts for Mantid\n\nDirectory structure\n===================\n\nIn order to try to keep the content in the repository navigable over time please follow the suggested directory structure\n\n* technique/instrument\t-\tScripts specific to an instrument\n  e.g.sans/loq\n* technique/facility\t-\tscripts specific to a facility, but common to several instruments at that facility\n  e.g.reflectometry/ornl\n* general/usage -\tscripts applicable to all\n  e.g.general/events\n* user/name -\tfor storing personal, but still shared scripts\n  e.g.user/ndraper\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "system": {
     "author": "Martyn Gigg",
     "description": "This folder is for the usage of Mantid Team. Please do not touch this folder or its content.\n",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "system/README": {
     "author": "Martyn Gigg",
     "description": "This folder is for the usage of Mantid Team. Please do not touch this folder or its content.\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "system/scriptrepositoryparser.py": {
     "author": "Martyn Gigg",
     "description": "The ScriptRepository parser is responsible for parsing the whole repository\nin order to update the information that is available at the repository.json\nfile. It belongs to the Script Repository Web Service.\n\nIt goes through the repository tree, looking into each file to produce\nthe entries of the repository.json.\n\nThe repository.json is formed with the following structure:\n\n    path of the directory/file\n        pub_date: the date when the file was last modified\n        directory: flag that indicates if the entry is a directory of a file\n        description: the description of the file or directory.\n        author: the name of the author.\n\nThis structure, can be created by the json module, using a python dictionary\nwhose value is a dictionary.\n\n.. code-block: python\n\n    {'path':{'description':'file description','pub_date':'today', 'author':'myname'}}\n\n\nThe :func:`parse_repository` function is responsible for iterating over all the\nfiles inside the repository. Than, it ask the make_entry to form the\nentry for the python structure.\n\nIn order to get the description of the entries, :func:`make_entry` depends on the\n:func:`get_description` function.\n\nThe ScriptRepository design defined that the documentation of a directory\nis the same as the documentation of its direct child __init__.py or README\nfile. So, these functions passes the information if the description of\nthe current entry could be used to describe its parent directory.\n\nCreated on Wed Mar  6 09:05:08 2013\n\n@author: gesner",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test/chunked-test.txt": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test/chunked-test.txt/filename": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test/runIndividualFromGUI.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test/test_upload.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "test_for_deletion.md": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "uploader_test.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/AdamJackson": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/AdamJackson/install_euphonic.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/Alice Russell": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/Alice Russell/testing.py": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/ExampleUser": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/ExampleUser/HRPDDialog_Example.py": {
     "author": "Martyn Gigg",
     "description": "First a function definition for the Loading algorithms which loads the data and immediately aligns the detectors\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/ExampleUser/test_script.py": {
     "author": "Martyn Gigg",
     "description": "This is a test script to test the functionality of the script repo in workbench\n\n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/ExampleUser/test_upload.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/GemmaGuest": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/GemmaGuest/test_script.py": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/GesnerPassos": {
     "author": "Martyn Gigg",
     "description": "This folder belongs to Gesner Passos.\n\nIt is here to allow developing features for ScriptRepository and testing \nthem. \n",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/GesnerPassos/README": {
     "author": "Martyn Gigg",
     "description": "This folder belongs to Gesner Passos.\n\nIt is here to allow developing features for ScriptRepository and testing \nthem. \n",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/GesnerPassos/toSandbox.txt": {
     "author": "Martyn Gigg",
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/HarrietBrown": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/HarrietBrown/test_plotter_script.py": {
     "author": "Martyn Gigg",
     "description": "This is a script that  produces a 2x2 figure containing sinusoidal waveforms, \n\ntwo of which have error bars. this is another bit of doc rext to see if it updates\n\ntesting autoupdate\n\nAnother change so it belongs to me\n\nMake another change\n\nChange",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/NickDraper": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/NickDraper/test script.py": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/NickDraper/test script4.py": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/NickDraper/test script6.py": {
     "author": null,
     "description": "",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/TomTitcombe": {
     "description": "",
     "directory": true,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   },
   "user/TomTitcombe/correct_period_logs.py": {
     "author": "Martyn Gigg",
     "description": "A script to correct erroneous periods in period_log",
     "directory": false,
-    "pub_date": "2022-Dec-14 11:36:04"
+    "pub_date": "2023-Feb-09 10:45:32"
   }
 }
